@@ -17,7 +17,7 @@
     "@fortawesome/fontawesome-free-solid": "^5.0.12",
     "@fortawesome/vue-fontawesome": "^0.0.22",
     "axios": "^0.18.0",
-    "bootstrap": "^4.1.1",
+    "bootstrap": "^4.3.1",
     "jquery": "^3.3.1",
     "js-cookie": "^2.2.0",
     "laravel-echo": "^1.4.0",
